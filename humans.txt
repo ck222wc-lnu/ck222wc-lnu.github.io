@@ -1,0 +1,8 @@
+/* AUTHOR */
+Name: Carl
+Location: Sweden
+
+/* SITE */
+Last update: 2019/11/19
+Language: Swedish
+Doctype: HTML 5
