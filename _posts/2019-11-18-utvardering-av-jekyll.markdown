@@ -5,9 +5,23 @@ date:   2019-11-18 23:32:45 +0100
 comments: true
 categories: personal
 ---
+## Statiska generatorer
+
+Statiska generatorer har både fördelar och nackdelar.
+
+Fördelen är att statiska generatorer som Jekyll ger sidor som är enkla att lägga upp. För att jämföra Jekyll med Wordpress så kräver Wordpress PHP och SQL, medans Jekyll inte har några andra krav, det hade funkat på en version av Apache från 90-talet.
+
+Nackdelen är att processen inte är lätt för 'vanliga' användare. Att sätta upp miljön för Jekyll med Docker gick inte på grund av något Ruby-fel som jag inte kunde lösa, så jag fick installera det manuellt.
+
 ## Kommentarer
 
 Jag använde [Isso](https://posativ.org/isso/) för kommentarer. Jag hostar Isso temporärt på en VPS för denna examinationen. Det var lätt att modifiera Disqus-mallen som följer med Jekyll-temat att fungera.
+
+## Open Graph
+
+Open Graph är ett protokoll för metadata. Metadatan kan sedan användas av webbapplikationer för att visa t.ex. en bild och text för en URL.
+
+Jekyll gör det mesta åt mig med SEO-taggen, men jag lade in en bild manuellt.
 
 ## Robotar
 
