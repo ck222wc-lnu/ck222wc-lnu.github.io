@@ -13,6 +13,10 @@ Fördelen är att statiska generatorer som Jekyll ger sidor som är enkla att l�
 
 Nackdelen är att processen inte är lätt för 'vanliga' användare. Att sätta upp miljön för Jekyll med Docker gick inte på grund av något Ruby-fel som jag inte kunde lösa, så jag fick installera det manuellt.
 
+## CSS-förprocessering
+
+Jag gillar att kunna använda variabler i CSS:en. Jag gjorde inte så mycket med CSS, utan ändrade mest bara färgskemat till ett baserat på [Solarized](https://ethanschoonover.com/solarized/).
+
 ## Kommentarer
 
 Jag använde [Isso](https://posativ.org/isso/) för kommentarer. Jag hostar Isso temporärt på en VPS för denna examinationen. Det var lätt att modifiera Disqus-mallen som följer med Jekyll-temat att fungera.
