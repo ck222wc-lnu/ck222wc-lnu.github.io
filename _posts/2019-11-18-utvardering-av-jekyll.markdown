@@ -2,8 +2,13 @@
 layout: post
 title:  "Utvärdering av Jekyll"
 date:   2019-11-18 23:32:45 +0100
+comments: true
 categories: personal
 ---
+## Kommentarer
+
+Jag använde [Isso](https://posativ.org/isso/) för kommentarer. Jag hostar Isso temporärt på en VPS för denna examinationen. Det var lätt att modifiera Disqus-mallen som följer med Jekyll-temat att fungera.
+
 ## Robotar
 
 robots.txt är en fil som ligger i rooten på en webbserver. Filen innehåller information om vilka sidor som robotar (t.ex. spindlar) ska kolla på.
